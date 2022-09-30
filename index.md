@@ -23,8 +23,8 @@ I am a third-year student majored in Math-CS from Revelle College.
 let message = 'Hello world';
 alert(message);
 ```
-### [My skills](### My projects)
-    (This is a section link)
+### My skills
+
 1.HTML
 1.CSS
 1.JavaScript
@@ -35,6 +35,8 @@ alert(message);
 3. Rock Paper Scissors
 
 ### What I will do
--[x] Do more projects!
--[ ] Learn react.js
--[ ] Learn iOS Development
+
+- [x] Do more projects!
+- [ ] Learn react.js
+- [ ] Learn iOS Development
+
